@@ -1,0 +1,43 @@
+main {
+  min-height: calc(100vh - 70px);
+  position: relative;
+  background-color: #0AFC6F;
+  
+}
+
+main section {
+  padding-bottom: 30px;
+  min-height: 30vh;
+}
+
+.header {
+  height: 150px;
+  background-color: #0AFC6F;
+  background-size: cover;
+  padding: 50px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  color:#F20F79;
+}
+
+.resposta {
+  padding: 10px;
+  font-size: 20px;
+  background: #44AFF2;
+  border-radius: 10px;
+  color: white;
+  box-shadow: 2px 2px 8px black;
+}
+
+
+footer {
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  background-color: #F2913D;
+}
+
+footer img {
+  height: 30px;
+}
